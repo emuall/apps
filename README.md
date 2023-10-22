@@ -1,3 +1,3 @@
-# app list
+app list
 
-## [AIOEMU](https://emuall.github.io/app/aioemu/)
+[AIOEMU](https://emuall.github.io/app/aioemu/)
