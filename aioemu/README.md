@@ -1,6 +1,17 @@
 
 
 # version list
+
+
+## AIOEMU-V24.01.21
+~~~
+Fix Game Cover
+Fix Crash Bugs
+~~~
+[Download AIOEMU-V23.11.29](https://github.com/emuall/app/releases/download/24.01.21/AIOEMU-V24.01.21.apk)
+
+
+
 ## AIOEMU-V23.11.29
 ~~~
 Support Android 14
