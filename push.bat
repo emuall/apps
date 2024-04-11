@@ -1,4 +1,4 @@
 git add .
-git commit -m "pal"
+git commit -m "app update"
 git push
 pause
