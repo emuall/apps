@@ -1,3 +1,3 @@
 app list
 
-[AIOEMU](https://emuall.github.io/app/aioemu/)
+[PS2](https://emuall.github.io/app/ps2/)
