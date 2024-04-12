@@ -9,7 +9,7 @@ Fix Game Cover
 Fix Crash Bugs
 ~~~
 
-[Download PS2 Emulator-V24.04.11](https://github.com/emuall/app/releases/download/24.04.11/PS2-V24.04.11.apk)
+[Download PS2 Emulator-V24.04.12](https://github.com/emuall/app/releases/download/24.04.12/PS2-V24.04.12.apk)
 
 ## PS2 Plugin
 
