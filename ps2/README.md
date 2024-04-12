@@ -21,6 +21,6 @@ Fix Crash Bugs
 [Download PS2 Plugin](https://github.com/emuall/app/releases/download/24.04.11/rar.apk)
 
 
-## Nintendo Switch
+## Nintendo Switch Plugin
 
 [Download PS2 Plugin](https://github.com/emuall/app/releases/download/24.04.11/Ns-Plugin.apk)
