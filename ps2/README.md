@@ -18,9 +18,9 @@ Fix Crash Bugs
 
 ## RAR Plugin
 
-[Download PS2 Plugin](https://github.com/emuall/app/releases/download/24.04.11/rar.apk)
+[Download RAR Plugin](https://github.com/emuall/app/releases/download/24.04.11/rar.apk)
 
 
 ## Nintendo Switch Plugin
 
-[Download PS2 Plugin](https://github.com/emuall/app/releases/download/24.04.11/Ns-Plugin.apk)
+[Download NS Plugin](https://github.com/emuall/app/releases/download/24.04.11/Ns-Plugin.apk)
